@@ -2,10 +2,10 @@
 
 > **Context and Discipline — AI-assisted engineering on the Glenth platform**
 
-A single-page presentation (`index.html`, in Portuguese) on how the Glenth team
-runs AI-assisted software engineering: not "how to write code," but *where* and
-*how* — the source of truth, the guardrails, and the discipline that keeps an AI
-agent productive and safe inside a real codebase.
+A single-page presentation on how the Glenth team runs AI-assisted software
+engineering: not "how to write code," but *where* and *how* — the source of
+truth, the guardrails, and the discipline that keeps an AI agent productive and
+safe inside a real codebase. Available in English (default) and Portuguese.
 
 **Live page:** https://carlossantosdev.github.io/glenth-ai-workflow/
 
@@ -31,8 +31,13 @@ python3 -m http.server   # then open http://localhost:8000
 
 ## Language
 
-The presentation is in Portuguese (PT-BR). In the underlying Glenth platform,
-durable documentation and commit messages follow English (en_US), per market standard.
+Two versions, linked by a switcher in the header:
+
+- **English (default)** — https://carlossantosdev.github.io/glenth-ai-workflow/
+- **Português** — https://carlossantosdev.github.io/glenth-ai-workflow/pt-br/
+
+In the underlying Glenth platform, durable documentation and commit messages
+follow English (en_US), per market standard.
 
 ## License
 
